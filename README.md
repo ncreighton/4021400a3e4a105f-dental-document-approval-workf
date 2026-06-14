@@ -1,2 +1,28 @@
-# 4021400a3e4a105f-dental-document-approval-workf
-Professional document approval workflow template built for dental operations and growth.
+# Dental Document Approval Workflow Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/5kQ6oHh1B9Mw5tu33mcZd0a)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/5kQ6oHh1B9Mw5tu33mcZd0a)
+
